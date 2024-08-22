@@ -1,6 +1,5 @@
 # Databricks notebook source
-
-
+# Databricks notebook source
 # Need to import to use date time 
 from datetime import datetime, date 
   
